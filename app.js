@@ -10,4 +10,5 @@ app.get("/add", (req,res) => {
     });
 })
 
+//exports to use anywhere
 module.exports = app;
